@@ -1,0 +1,23 @@
+.fondoInicioSesion{
+    background-image: url(/img/sistema/inicioSesion.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.fondoRecordarContrasenia{
+    background-image: url(/img/sistema/recordarContrasenia.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.fondoRegistroOficial{
+    background-image: url(/img/sistema/registroOficial.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}

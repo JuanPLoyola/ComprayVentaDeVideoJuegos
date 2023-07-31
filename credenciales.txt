@@ -1,0 +1,14 @@
+-Usuario:
+	correo:mariagonz@gmail.com
+	pass:123
+
+-Admin:
+	correo:emiliedavd@gmail.com
+	pass:123
+-Manager:
+	correo:dyla@hotmail.com
+	pass:123
+
+db:
+root
+root
